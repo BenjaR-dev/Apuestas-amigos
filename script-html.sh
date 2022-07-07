@@ -11,5 +11,5 @@ clear
 sleep 1.0
 echo .
 cp perdiste.html ganaste-o-no.html
-sleep 0.0
+sleep 1.0
 bash script-html.sh
